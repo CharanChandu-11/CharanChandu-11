@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Charan Chandu and I'm a passionate Full stack developer, from India</h2>
+<h2 align="left">Hi ! My name is Charan Chandu and I'm a passionate Full stack developer, from India</h2>
 
 ###
 
